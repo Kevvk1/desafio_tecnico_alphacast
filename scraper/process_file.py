@@ -4,7 +4,7 @@ import re
 def process_file(excel_file, sheet_name):
 
     """
-    Procesa un archivo Excel (BytesIO o ruta) y retorna un DataFrame plano con columnas:
+    Procesa el archivo Excel y retorna un DataFrame plano con columnas:
     Date, Region, Product, Unit, Price.
     """
 
