@@ -1,0 +1,5 @@
+alphacast
+pandas
+requests
+python-dotenv
+xlrd
